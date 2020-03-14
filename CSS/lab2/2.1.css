@@ -1,0 +1,36 @@
+h1
+{
+ font-family: calibri;
+ font-size: 30px;
+ font-style: normal;
+ font-weight: bold;
+ color: grey;
+ text-decoration: underline;
+ text-align: center;
+}
+p
+{
+ font-family: verdana;
+ font-size: 20px;
+ font-style: italic;
+ 
+}
+q{
+
+ font-family: verdana;
+ font-size: 20px;
+ font-style: italic;
+ color: #dc143c;
+} 
+
+div.a
+{
+  text-transform: uppercase;
+}
+div.b
+{
+    text-indent: 10%;
+}
+h2{
+    text-shadow: 2px 2px darkblue;
+}

@@ -1,0 +1,12 @@
+*.para{
+    color: green;
+  }
+  
+  *.heading {
+    color: red;
+  }
+  
+  *.maincontent {
+    border: 1px solid blue;
+  }
+ 
